@@ -1,0 +1,35 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(217, 227, 228);
+}
+
+h1{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    background-image: url('eng2.jpg');
+    height: 434px;
+    align-items: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 85px;
+    background-size: cover;
+    border: 2px ;
+}
+h4{
+    margin: 8px;
+    padding: 0px;
+    font-size: 29px;
+}
+.exam1{
+    padding-top: 0px;
+}
+.content{
+    border: 2px solid black;
+    border-radius: 39px;
+    font-size: 17px;
+    height: 116px;
+    padding: 24px;
+    margin: -1px;
+}
